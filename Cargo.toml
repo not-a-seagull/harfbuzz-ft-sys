@@ -3,6 +3,9 @@ name = "harfbuzz-ft-sys"
 version = "0.1.0"
 authors = ["not_a_seagull <jtnunley01@gmail.com>"]
 edition = "2018"
+repository = "https://github.com/not-a-seagull/harfbuzz-ft-sys"
+license = "MIT OR Apache-2.0"
+description = "Hand-written FFI bindings to the Harfbuzz Freetype header"
 
 [dependencies]
 harfbuzz-sys = "*"
