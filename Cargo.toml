@@ -8,5 +8,5 @@ license = "MIT OR Apache-2.0"
 description = "Hand-written FFI bindings to the Harfbuzz Freetype header"
 
 [dependencies]
-harfbuzz-sys = "*"
-freetype = "*"
+harfbuzz-sys = "0.3.1"
+freetype = "0.5.1"
